@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\bin\Debug\Hello.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\bin\Debug\Hello.exe
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\bin\Debug\Hello.pdb
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\obj\Debug\Hello.exe
+F:\Softwares Outpus\Visual Stdio 2019\Hello\Hello\obj\Debug\Hello.pdb
