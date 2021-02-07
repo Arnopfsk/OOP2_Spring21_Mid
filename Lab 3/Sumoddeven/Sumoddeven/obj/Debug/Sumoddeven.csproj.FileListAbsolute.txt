@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\bin\Debug\Sumoddeven.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\bin\Debug\Sumoddeven.exe
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\bin\Debug\Sumoddeven.pdb
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\obj\Debug\Sumoddeven.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\obj\Debug\Sumoddeven.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\obj\Debug\Sumoddeven.exe
+F:\Softwares Outpus\Visual Stdio 2019\Sumoddeven\Sumoddeven\obj\Debug\Sumoddeven.pdb
