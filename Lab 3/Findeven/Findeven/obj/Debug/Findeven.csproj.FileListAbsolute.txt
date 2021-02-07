@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\bin\Debug\Findeven.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\bin\Debug\Findeven.exe
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\bin\Debug\Findeven.pdb
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\obj\Debug\Findeven.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\obj\Debug\Findeven.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\obj\Debug\Findeven.exe
+F:\Softwares Outpus\Visual Stdio 2019\Findeven\Findeven\obj\Debug\Findeven.pdb
