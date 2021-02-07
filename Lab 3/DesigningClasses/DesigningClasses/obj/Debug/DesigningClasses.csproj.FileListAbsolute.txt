@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\bin\Debug\DesigningClasses.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\bin\Debug\DesigningClasses.exe
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\bin\Debug\DesigningClasses.pdb
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\obj\Debug\DesigningClasses.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\obj\Debug\DesigningClasses.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\obj\Debug\DesigningClasses.exe
+F:\Softwares Outpus\Visual Stdio 2019\DesigningClasses\DesigningClasses\obj\Debug\DesigningClasses.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{56623468-86FD-4BAD-BDB3-2F861CFA49DA}</ProjectGuid>
+    <ProjectGuid>{A0959DE6-1213-47A1-9E01-6643D23F4C5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Classdesigne</RootNamespace>
-    <AssemblyName>Classdesigne</AssemblyName>
+    <RootNamespace>DesigningClasses</RootNamespace>
+    <AssemblyName>DesigningClasses</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
