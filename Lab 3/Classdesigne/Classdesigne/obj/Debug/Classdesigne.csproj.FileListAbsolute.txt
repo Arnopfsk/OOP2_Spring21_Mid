@@ -1,0 +1,2 @@
+F:\Softwares Outpus\Visual Stdio 2019\Classdesigne\Classdesigne\obj\Debug\Classdesigne.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\Classdesigne\Classdesigne\obj\Debug\Classdesigne.csproj.CoreCompileInputs.cache
