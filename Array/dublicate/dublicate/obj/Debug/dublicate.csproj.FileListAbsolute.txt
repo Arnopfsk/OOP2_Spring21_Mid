@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\bin\Debug\dublicate.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\bin\Debug\dublicate.exe
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\bin\Debug\dublicate.pdb
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\obj\Debug\dublicate.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\obj\Debug\dublicate.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\obj\Debug\dublicate.exe
+F:\Softwares Outpus\Visual Stdio 2019\dublicate\dublicate\obj\Debug\dublicate.pdb

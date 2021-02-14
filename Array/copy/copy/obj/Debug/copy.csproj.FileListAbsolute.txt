@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\bin\Debug\copy.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\bin\Debug\copy.exe
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\bin\Debug\copy.pdb
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\obj\Debug\copy.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\obj\Debug\copy.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\obj\Debug\copy.exe
+F:\Softwares Outpus\Visual Stdio 2019\copy\copy\obj\Debug\copy.pdb
