@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\bin\Debug\Association (correction).exe.config
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\bin\Debug\Association (correction).exe
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\bin\Debug\Association (correction).pdb
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\obj\Debug\Association (correction).csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\obj\Debug\Association (correction).csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\obj\Debug\Association (correction).exe
+F:\Softwares Outpus\Visual Stdio 2019\Association (correction)\Association (correction)\obj\Debug\Association (correction).pdb
