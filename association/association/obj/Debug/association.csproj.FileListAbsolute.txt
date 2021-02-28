@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\association\association\bin\Debug\association.exe.config
+F:\Softwares Outpus\Visual Stdio 2019\association\association\bin\Debug\association.exe
+F:\Softwares Outpus\Visual Stdio 2019\association\association\bin\Debug\association.pdb
+F:\Softwares Outpus\Visual Stdio 2019\association\association\obj\Debug\association.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\association\association\obj\Debug\association.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\association\association\obj\Debug\association.exe
+F:\Softwares Outpus\Visual Stdio 2019\association\association\obj\Debug\association.pdb
